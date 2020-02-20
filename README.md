@@ -51,9 +51,9 @@ Alternatively, to install Mapbox Navigation using [Carthage](https://github.com/
 
 1. Create a [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md#github-repositories) with the following dependency:
    ```cartfile
-   // Latest stable release
+   # Latest stable release
    github "mapbox/mapbox-navigation-ios" ~> 0.38
-   // Latest prerelease
+   # Latest prerelease
    github "mapbox/mapbox-navigation-ios" "v1.0.0-alpha.1"
    ```
 
